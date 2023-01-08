@@ -25,16 +25,9 @@
 <br/>
 <br/>
 <br/>
+
+<br/>
 </p>
 
 [twitter]: https://twitter.com/PHPExplorer
 [youtube]: https://www.youtube.com/@SetURL
-
---- 
-
-<div align="center" style="width:75%"> 
-  <p align="center">
-  </p>
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" style='width:70%;'/>
-  
-</div>
