@@ -11,11 +11,6 @@
  [  I mainly do projects in python, javascript, and occasionally html or css.            ]
 ```
 
-<a href="https://github.com/html-explorer">
-  <img align="right" src="https://streak-stats.demolab.com/demo/preview.php?user=html-explorer&theme=tokyonight&hide_border=true&border_radius=25" />
-  <br>
-</a>
-
 
  - View all my [Projects](https://github.com/html-explorer).
  - Contact me via [Email](mailto:niclas.wagener@skiff.com).
