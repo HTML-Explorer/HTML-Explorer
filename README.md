@@ -38,8 +38,21 @@ My name is Niclas Wagener. Some people know me by the nickname "PHP-Explorer" on
 
 ---
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HTML-Explorer&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HTML-Explorer)
+<a href="https://github.com/html-explorer">
+  <img align="right" src="https://streak-stats.demolab.com/demo/preview.php?user=html-explorer&theme=tokyonight&hide_border=true&border_radius=25" />
+  <br>
+</a>
+
+
+ - View all my [Projects](https://github.com/html-explorer).
+ - Contact me via [Email](mailto:niclas.wagener@skiff.com).
+
+
+<p>
+<br/>
+<br/>
+<br/>
+</p>
 
 [twitter]: https://twitter.com/PHPExplorer
 [youtube]: https://www.youtube.com/@SetURL
