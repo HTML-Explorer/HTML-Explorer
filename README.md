@@ -13,7 +13,7 @@
 
 
  - View all my [Projects](https://github.com/html-explorer).
- - Contact me via [Email](mailto:niclas.wagener@skiff.com).
+ - Contact me via [Email](mailto:email@skiff.com).
 
 
 <p>
